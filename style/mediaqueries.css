@@ -1,0 +1,195 @@
+@media screen and (max-width:1080px) {
+    html {
+        font-size: 93.75%;
+    }
+
+    .backmain {
+        height: 100vh;
+        max-height: 70rem;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .backmain {
+        max-height: 58rem;
+    }
+}
+
+@media screen and (max-width:720px) {
+    html {
+        font-size: 87.5%;
+    }
+
+    .backmain {
+        height: 115vh;
+        max-height: 50rem;
+    }
+
+    .headmain img {
+        margin-top: 7rem;
+    }
+
+    .video {
+        width: 85%;
+        height: 14rem;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .backmain {
+        height: 114vh;
+        max-height: 54rem;
+    }
+
+    .end {
+        padding-top: 2rem;
+    }
+
+    .headmain img {
+        margin-top: 10rem;
+    }
+}
+
+@media screen and (max-width:490px) {
+    html {
+        font-size: 82%;
+    }
+
+    .headmain p {
+        font-size: 1.54rem;
+        padding-bottom: 0.8rem;
+        padding-top: 3rem;
+    }
+
+    .headmain img {
+        width: 22rem;
+        margin-top: 7rem;
+    }
+
+    .icon img {
+        width: 1.15rem;
+        margin-right: 0.8rem;
+    }
+
+    .verification p {
+        font-size: 0.8rem;
+    }
+
+    .button img {
+        width: 1rem;
+        margin-right: 0.8rem;
+    }
+
+    .button p {
+        font-size: 0.8rem;
+    }
+
+    .chat {
+        width: 95%;
+    }
+
+    .backblackfooter {
+        display: block;
+    }
+
+    .warning {
+        margin: auto;
+    }
+
+    .warning .textpirat {
+        text-align: center;
+    }
+
+    .warning .textfooter {
+        text-align: center;
+        width: 100%;
+    }
+
+    .rodape {
+        margin: 2rem auto;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .allback {
+        background-image: url(../image/bgcell.png);
+        background-size: inherit;
+        background-position: top;
+        background-repeat: repeat;
+    }
+
+    .backmain {
+        max-height: 56rem;
+    }
+}
+
+@media screen and (max-width:376px) {
+    .backmain {
+        height: 110vh;
+        max-height: 62rem;
+    }
+
+    .headmain img {
+        width: 24rem;
+        margin-top: 7rem;
+    }
+
+    .headmain p {
+        font-size: 1.4rem;
+    }
+
+    .video video {
+        padding-bottom: 4rem;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .top p {
+        font-size: 0.8rem;
+    }
+
+    .headmain img {
+        width: 19rem;
+    }
+
+    .headmain p {
+        font-size: 1rem;
+    }
+
+    .video video {
+        margin-bottom: 0.7rem;
+    }
+
+    .icon img {
+        width: 1rem;
+        margin-right: 0.8rem;
+    }
+
+    .verification p {
+        font-size: 0.45rem;
+    }
+
+    .button img {
+        width: 0.6rem;
+        margin-right: 0.8rem;
+    }
+
+    .button p {
+        font-size: 0.5rem;
+    }
+
+    .security img {
+        width: 12rem;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .backmain {
+        max-height: 50rem;
+    }
+
+    .video {
+        height: 10rem;
+    }
+}
